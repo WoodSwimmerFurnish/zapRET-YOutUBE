@@ -7,4 +7,4 @@ Allow: /
 User-agent: YandexBot
 Allow: /
 Clean-param: utm_source&utm_medium&utm_campaign
-Sitemap: https://github.com/WoodSwimmerFurnish/zapRET-YOutUBE
+Sitemap: https://github.com/woodswimmerfurnish/zapRET-YOutUBE

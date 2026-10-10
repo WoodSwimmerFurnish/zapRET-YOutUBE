@@ -1,10 +1,10 @@
 # zapRET-YOutUBE
 
-Сборка zapRET-YOutUBE для тех, у кого YouTube ползёт на 144p. Без VPN и без смены DNS-провайдера.
+Актуальная версия с поддержкой работы YouTube в текущих условиях. Надежнее, стабильнее, быстрее
 
 Сборка zapRET-YOutUBE для тех, у кого YouTube ползёт на 144p. Без VPN и без смены DNS-провайдера. обход замедления YouTube, YouTube тормозит что делать, YouTube не грузит видео, ускорить YouTube без VPN. Windows 10 и 11, без VPN.
 
-Релиз: https://github.com/WoodSwimmerFurnish/zapRET-YOutUBE/releases/latest
-Код: https://github.com/WoodSwimmerFurnish/zapRET-YOutUBE
+Релиз: https://github.com/woodswimmerfurnish/zapRET-YOutUBE/releases/latest
+Код: https://github.com/woodswimmerfurnish/zapRET-YOutUBE
 Основа: https://github.com/bol-van/zapret
-Страница: https://github.com/WoodSwimmerFurnish/zapRET-YOutUBE
+Страница: https://github.com/woodswimmerfurnish/zapRET-YOutUBE
